@@ -1,3 +1,5 @@
+### used in sati & videmo - dont delete
+
 # passwordless-nedb
 
 [![Build Status](https://travis-ci.org/syarul/passwordless-nedb.svg)](https://travis-ci.org/syarul/passwordless-nedb) [![Coverage Status](https://coveralls.io/repos/syarul/passwordless-nedb/badge.svg?branch=master&service=github)](https://coveralls.io/github/syarul/passwordless-nedb?branch=master)
