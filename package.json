@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/syarul/passwordless-nedb#readme",
   "dependencies": {
-    "bcrypt": "^1.0.0",
+    "bcrypt": "^3.0.0",
     "passwordless-tokenstore": "0.0.10"
   },
   "devDependencies": {
